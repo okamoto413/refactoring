@@ -1,0 +1,5 @@
+Hello,worldRuby world
+Ruby world
+ポイント：2　コメント：3
+ポイント：1　コメント：
+ポイント：2　コメント：2ポイント
